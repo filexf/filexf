@@ -9,7 +9,7 @@ I have a background in photography and recently completed an intensive 10-weeks 
   <body>
     <tr>
       <td width="400px" align="center">
-         <h3>Fullstack</h3>
+         <h3>Stack</h3>
       </td>
      <td width="400px" align="center">
          <h3>Others</h3>

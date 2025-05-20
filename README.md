@@ -1,10 +1,8 @@
-## ✏️ About me
+## 👋 Hello, I'm Félix, a web developer! 
+With a background in photography and a recent graduation from Le Wagon’s intensive 10-week bootcamp, I specialize in building dynamic web applications using Ruby on Rails and React. I love merging creativity with technology to craft visually stunning and user-friendly solutions. Ready to bring innovation and technical skills to exciting new projects!
 
-#### 👋 Hello, I'm Félix and I'm a fullstack developer! 
-I have a background in photography and recently completed an intensive 10-weeks bootcamp at Le Wagon, where I built several web applications using Ruby on Rails. I'm passionate about combining my graphic skills with web development to create visually appealing and user-friendly applications. Excited to bring creativity and technical expertise to my next project!
-
-## 🌐 My Website
-Come check out <a href = "https://filexf.github.io/felix-portfolio"> my website </a> right here to learn more about me ! 
+## 🌐 Explore My Work
+Check out my <a href = "https://filexf.github.io/felix-portfolio">portfolio website</a> 🌟  for an interactive showcase of my skills, projects, and experience!
 
 
 ## 🍳 My skills
@@ -13,17 +11,17 @@ Come check out <a href = "https://filexf.github.io/felix-portfolio"> my website 
   <body>
     <tr>
       <td width="400px" align="center">
-         <h3>Stack</h3>
+         <h3>🛠️ Tech Stack</h3>
       </td>
      <td width="400px" align="center">
-         <h3>Others</h3>
+         <h3>🛠️ Tools & Platforms</h3>
       </td>
     </tr>
     <tr>
       <td height="100px" align="center">
         <a href="https://react.dev/learn" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-react-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175110.png?f=webp&w=512" alt="ruby" width="40" height="40"/></a>
+       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="ruby" width="40" height="40"/></a>
       <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
-       <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 

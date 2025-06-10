@@ -2,7 +2,7 @@
 With a background in photography and a recent graduation from Le Wagon’s intensive 10-week bootcamp, I specialize in building dynamic web applications using Ruby on Rails and React. I love merging creativity with technology to craft visually stunning and user-friendly solutions. Ready to bring innovation and technical skills to exciting new projects!
 
 ## 🌐 Explore My Work
-Check out my <a href = "https://filexf.github.io/felix-portfolio">portfolio website</a> 🌟  for an interactive showcase of my skills, projects, and experience!
+### Check out my <a href = "https://filexf.github.io/felix-portfolio">portfolio website</a> 🌟  for an interactive showcase of my skills, projects, and experience!
 
 
 ## 🍳 My skills

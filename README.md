@@ -10,7 +10,7 @@ With a background in photography and a recent graduation from Le Wagon’s inten
 <table align="center">
   <body>
     <tr>
-      <td width="400px" align="center">
+      <td width="500px" align="center">
          <h3>🛠️ Tech Stack</h3>
       </td>
      <td width="400px" align="center">
@@ -21,6 +21,7 @@ With a background in photography and a recent graduation from Le Wagon’s inten
       <td height="100px" align="center">
         <a href="https://react.dev/learn" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-react-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175110.png?f=webp&w=512" alt="react" width="40" height="40"/></a>
        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/></a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="tailwind" width="40" height="40"/></a>
       <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>

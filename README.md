@@ -13,7 +13,7 @@ With a background in photography and a recent graduation from Le Wagon’s inten
       <td width="500px" align="center">
          <h3>🛠️ Tech Stack</h3>
       </td>
-     <td width="400px" align="center">
+     <td width="500px" align="center">
          <h3>🛠️ Tools & Platforms</h3>
       </td>
     </tr>

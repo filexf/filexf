@@ -19,6 +19,9 @@ With a background in photography and a recent graduation from Le Wagon’s inten
     </tr>
     <tr>
       <td height="100px" align="center">
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40"/>
+        </a>
         <a href="https://react.dev/learn" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-react-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175110.png?f=webp&w=512" alt="react" width="40" height="40"/></a>
        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/></a>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="tailwind" width="40" height="40"/></a>

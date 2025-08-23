@@ -1,9 +1,7 @@
-## 👋 Hello, I'm Félix, a web developer! 
-With a background in photography and a recent graduation from Le Wagon’s intensive 10-week bootcamp, I specialize in building dynamic web applications using Ruby on Rails and React. I love merging creativity with technology to craft visually stunning and user-friendly solutions. Ready to bring innovation and technical skills to exciting new projects!
+## 👋 I'm Félix, a web developer! 
+I'm a full-stack developer with a background in photography and design. Skilled in Ruby, React, Next.js, and TypeScript, I focus on building intuitive, user-friendly applications that merge creativity with technology. Motivated and adaptable, I’d be happy to contribute to open-source projects. I thrive on bringing fresh ideas to life through clean, impactful code. Don't hesitate to DM me if you want to work together ! 
 
-## 🌐 Explore My Work
-### Check out my <a href = "https://filexf.github.io/felix-portfolio">portfolio website</a> 🌟  for an interactive showcase of my skills, projects, and experience!
-
+### Check my portfolio <a href = "felix-orain.com"> felix-orain.com </a> 🌟  for an interactive showcase of my skills, projects, and experience!
 
 ## 🍳 My skills
 

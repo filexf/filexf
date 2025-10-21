@@ -39,4 +39,4 @@ I'm a full-stack developer with a background in photography and design. Skilled 
   </body>
 </table>
 
-## 💼 Currently working part-time for  <a href = "https://lifo-app.com"> LIFO.AI </a> to reduce food waste.
+## 💼 Currently working part-time for  <a href = "https://lifo-app.com"> LIFO.AI </a> to reduce food waste ♻️
